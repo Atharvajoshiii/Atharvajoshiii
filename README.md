@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Atharva Joshi <br><br>- 🔭 I’m a B-TECH CSE student<br>- 📚 I'm currently learning Flutter and backend development<br>- 💙 Building beautiful and scalable apps</p>
+<p align="left">I'm Atharva Joshi <br><br><br>- Full Stack Developer <br>- 💙 Building beautiful and scalable softwares</p>
 
 ###
 
